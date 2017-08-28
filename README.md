@@ -3,7 +3,7 @@ I'm making available my master of degree (MSc.) - Mestrado in Portuguese
 
 ## Documents
 - Dissertation (Folder)
-  - Web Search Engine for OERs using metadata, integration schemas and provenance of data
+  - Web Search Engine for OERs using metadata, integration schema database and provenance of data Web
   
 - Article (Folder)
   - Article Original of Dissertation
