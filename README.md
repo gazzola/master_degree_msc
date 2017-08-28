@@ -12,7 +12,7 @@ I'm making available my master of degree (MSc.) - Mestrado in Portuguese
 
 # ** SeeOER - Web Search Engine for OER
 
-> Became available during the period June 2014 to May 2015 in <http://www.seeoer.com> (it's off - **DOWN**)
+> Became available during the period **```June 2014 to May 2015```** in <http://www.seeoer.com> (it's off - **DOWN**)
 > After that, because of the high costs of Amazon EC2, AWS Cloud hired to run the search engine, it has been disabled.  
 > And put this page on a free hospagem server in PHP.
 > 
