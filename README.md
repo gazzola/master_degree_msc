@@ -1,5 +1,5 @@
 # Meu Mestrado - Master's Degree
-I'm making available my master of degree (MSc.) - Mestrado in Portuguese
+I'm publishing (available 2015) my master of degree (MSc.) - Mestrado in Portuguese
 
 ## Documents
 - Dissertation (Folder)
